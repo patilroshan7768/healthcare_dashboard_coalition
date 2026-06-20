@@ -61,7 +61,7 @@ src/
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/patilroshan7768/healthcare_dashboard_coalition
 ```
 
 ### 2. Navigate to Project
